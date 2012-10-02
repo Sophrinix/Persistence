@@ -1,8 +1,8 @@
-#appname: Persistence
-#publisher: kevin
-#url: appcelerator.com
-#image: appicon.png
-#appid: com.appcelerator.persistence
-#desc: undefined
-#type: mobile
-#guid: ef78a2da-817a-47ba-8b32-3a21a3745224
+#appname:Persistence
+#publisher:Appcelerator
+#url:http://www.appcelerator.com
+#image:appicon.png
+#appid:com.appcelerator.persistence
+#desc:Data persistence demo app
+#type:ipad
+#guid:ef78a2da-817a-47ba-8b32-3a21a3745224
